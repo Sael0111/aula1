@@ -1,0 +1,16 @@
+F:\2A-DS-PI\Thiago e Samuel\ds\Samuel e Thiago\Samuel e Thiago\bin\Debug\net8.0-windows\Samuel e Thiago.exe
+F:\2A-DS-PI\Thiago e Samuel\ds\Samuel e Thiago\Samuel e Thiago\bin\Debug\net8.0-windows\Samuel e Thiago.deps.json
+F:\2A-DS-PI\Thiago e Samuel\ds\Samuel e Thiago\Samuel e Thiago\bin\Debug\net8.0-windows\Samuel e Thiago.runtimeconfig.json
+F:\2A-DS-PI\Thiago e Samuel\ds\Samuel e Thiago\Samuel e Thiago\bin\Debug\net8.0-windows\Samuel e Thiago.dll
+F:\2A-DS-PI\Thiago e Samuel\ds\Samuel e Thiago\Samuel e Thiago\bin\Debug\net8.0-windows\Samuel e Thiago.pdb
+F:\2A-DS-PI\Thiago e Samuel\ds\Samuel e Thiago\Samuel e Thiago\obj\Debug\net8.0-windows\Samuel_e_Thiago.Form1.resources
+F:\2A-DS-PI\Thiago e Samuel\ds\Samuel e Thiago\Samuel e Thiago\obj\Debug\net8.0-windows\Samuel e Thiago.csproj.GenerateResource.cache
+F:\2A-DS-PI\Thiago e Samuel\ds\Samuel e Thiago\Samuel e Thiago\obj\Debug\net8.0-windows\Samuel e Thiago.GeneratedMSBuildEditorConfig.editorconfig
+F:\2A-DS-PI\Thiago e Samuel\ds\Samuel e Thiago\Samuel e Thiago\obj\Debug\net8.0-windows\Samuel e Thiago.AssemblyInfoInputs.cache
+F:\2A-DS-PI\Thiago e Samuel\ds\Samuel e Thiago\Samuel e Thiago\obj\Debug\net8.0-windows\Samuel e Thiago.AssemblyInfo.cs
+F:\2A-DS-PI\Thiago e Samuel\ds\Samuel e Thiago\Samuel e Thiago\obj\Debug\net8.0-windows\Samuel e Thiago.csproj.CoreCompileInputs.cache
+F:\2A-DS-PI\Thiago e Samuel\ds\Samuel e Thiago\Samuel e Thiago\obj\Debug\net8.0-windows\Samuel e Thiago.dll
+F:\2A-DS-PI\Thiago e Samuel\ds\Samuel e Thiago\Samuel e Thiago\obj\Debug\net8.0-windows\refint\Samuel e Thiago.dll
+F:\2A-DS-PI\Thiago e Samuel\ds\Samuel e Thiago\Samuel e Thiago\obj\Debug\net8.0-windows\Samuel e Thiago.pdb
+F:\2A-DS-PI\Thiago e Samuel\ds\Samuel e Thiago\Samuel e Thiago\obj\Debug\net8.0-windows\Samuel e Thiago.genruntimeconfig.cache
+F:\2A-DS-PI\Thiago e Samuel\ds\Samuel e Thiago\Samuel e Thiago\obj\Debug\net8.0-windows\ref\Samuel e Thiago.dll
