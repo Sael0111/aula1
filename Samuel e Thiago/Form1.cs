@@ -1,8 +1,8 @@
 namespace Samuel_e_Thiago
 {
-    public partial class Form1 : Form
+    public partial class frmnum : Form
     {
-        public Form1()
+        public frmnum()
         {
             InitializeComponent();
         }
@@ -11,18 +11,30 @@ namespace Samuel_e_Thiago
         {
             int[] valor = new int[15];
             int i;
-            for (i = 0; i < 15; i++) 
+            Random num = new Random();
+            for (i = 0; i < 15; i++)
             {
-                Random num = new Random();
-                valor[i] = num.Next(1,100);
+                valor[i] = num.Next(1, 100);
             }
-            for(i=0; i < 15; i++)
+            for (i = 0; i < 15; i++)
             {
                 if (valor[i] % 2 == 0)
                 {
-                    txtnum.Text = valor[i].ToString() + Environment.NewLine;
-               }
+                    txtnum.Text += valor[i].ToString() + Environment.NewLine;
+                }
             }
+        }
+
+        private void btnlimpar_Click(object sender, EventArgs e)
+        {
+            txtnum.Clear();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            frmmenu menu = new frmmenu();
+            menu.Show();
         }
     }
 }

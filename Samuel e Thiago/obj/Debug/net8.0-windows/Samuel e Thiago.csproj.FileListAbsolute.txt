@@ -14,3 +14,22 @@ F:\2A-DS-PI\Thiago e Samuel\ds\Samuel e Thiago\Samuel e Thiago\obj\Debug\net8.0-
 F:\2A-DS-PI\Thiago e Samuel\ds\Samuel e Thiago\Samuel e Thiago\obj\Debug\net8.0-windows\Samuel e Thiago.pdb
 F:\2A-DS-PI\Thiago e Samuel\ds\Samuel e Thiago\Samuel e Thiago\obj\Debug\net8.0-windows\Samuel e Thiago.genruntimeconfig.cache
 F:\2A-DS-PI\Thiago e Samuel\ds\Samuel e Thiago\Samuel e Thiago\obj\Debug\net8.0-windows\ref\Samuel e Thiago.dll
+C:\Users\sam12\Desktop\etec\2º\Desenvolvimento de sistemas\exercicio 1\Samuel e Thiago\obj\Debug\net8.0-windows\Samuel e Thiago.csproj.GenerateResource.cache
+C:\Users\sam12\Desktop\etec\2º\Desenvolvimento de sistemas\exercicio 1\Samuel e Thiago\obj\Debug\net8.0-windows\Samuel e Thiago.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sam12\Desktop\etec\2º\Desenvolvimento de sistemas\exercicio 1\Samuel e Thiago\obj\Debug\net8.0-windows\Samuel e Thiago.AssemblyInfoInputs.cache
+C:\Users\sam12\Desktop\etec\2º\Desenvolvimento de sistemas\exercicio 1\Samuel e Thiago\obj\Debug\net8.0-windows\Samuel e Thiago.AssemblyInfo.cs
+C:\Users\sam12\Desktop\etec\2º\Desenvolvimento de sistemas\exercicio 1\Samuel e Thiago\obj\Debug\net8.0-windows\Samuel e Thiago.csproj.CoreCompileInputs.cache
+C:\Users\sam12\Desktop\etec\2º\Desenvolvimento de sistemas\exercicio 1\Samuel e Thiago\obj\Debug\net8.0-windows\Samuel e Thiago.sourcelink.json
+C:\Users\sam12\Desktop\etec\2º\Desenvolvimento de sistemas\exercicio 1\Samuel e Thiago\obj\Debug\net8.0-windows\Samuel e Thiago.dll
+C:\Users\sam12\Desktop\etec\2º\Desenvolvimento de sistemas\exercicio 1\Samuel e Thiago\obj\Debug\net8.0-windows\refint\Samuel e Thiago.dll
+C:\Users\sam12\Desktop\etec\2º\Desenvolvimento de sistemas\exercicio 1\Samuel e Thiago\obj\Debug\net8.0-windows\Samuel e Thiago.pdb
+C:\Users\sam12\Desktop\etec\2º\Desenvolvimento de sistemas\exercicio 1\Samuel e Thiago\bin\Debug\net8.0-windows\Samuel e Thiago.exe
+C:\Users\sam12\Desktop\etec\2º\Desenvolvimento de sistemas\exercicio 1\Samuel e Thiago\bin\Debug\net8.0-windows\Samuel e Thiago.deps.json
+C:\Users\sam12\Desktop\etec\2º\Desenvolvimento de sistemas\exercicio 1\Samuel e Thiago\bin\Debug\net8.0-windows\Samuel e Thiago.runtimeconfig.json
+C:\Users\sam12\Desktop\etec\2º\Desenvolvimento de sistemas\exercicio 1\Samuel e Thiago\bin\Debug\net8.0-windows\Samuel e Thiago.dll
+C:\Users\sam12\Desktop\etec\2º\Desenvolvimento de sistemas\exercicio 1\Samuel e Thiago\bin\Debug\net8.0-windows\Samuel e Thiago.pdb
+C:\Users\sam12\Desktop\etec\2º\Desenvolvimento de sistemas\exercicio 1\Samuel e Thiago\obj\Debug\net8.0-windows\Samuel e Thiago.genruntimeconfig.cache
+C:\Users\sam12\Desktop\etec\2º\Desenvolvimento de sistemas\exercicio 1\Samuel e Thiago\obj\Debug\net8.0-windows\ref\Samuel e Thiago.dll
+C:\Users\sam12\Desktop\etec\2º\Desenvolvimento de sistemas\exercicio 1\Samuel e Thiago\obj\Debug\net8.0-windows\Samuel_e_Thiago.frmnum.resources
+C:\Users\sam12\Desktop\etec\2º\Desenvolvimento de sistemas\exercicio 1\Samuel e Thiago\obj\Debug\net8.0-windows\Samuel_e_Thiago.frmmenu.resources
+C:\Users\sam12\Desktop\etec\2º\Desenvolvimento de sistemas\exercicio 1\Samuel e Thiago\obj\Debug\net8.0-windows\Samuel_e_Thiago.frmnota.resources

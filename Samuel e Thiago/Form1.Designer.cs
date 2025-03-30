@@ -1,6 +1,6 @@
 ﻿namespace Samuel_e_Thiago
 {
-    partial class Form1
+    partial class frmnum
     {
         /// <summary>
         ///  Required designer variable.
@@ -31,13 +31,16 @@
             btngerar = new Button();
             txtnum = new TextBox();
             label1 = new Label();
+            btnlimpar = new Button();
+            button1 = new Button();
             SuspendLayout();
             // 
             // btngerar
             // 
-            btngerar.Location = new Point(138, 326);
+            btngerar.Location = new Point(158, 435);
+            btngerar.Margin = new Padding(3, 4, 3, 4);
             btngerar.Name = "btngerar";
-            btngerar.Size = new Size(90, 49);
+            btngerar.Size = new Size(103, 65);
             btngerar.TabIndex = 0;
             btngerar.Text = "gerar";
             btngerar.UseVisualStyleBackColor = true;
@@ -45,30 +48,54 @@
             // 
             // txtnum
             // 
-            txtnum.Location = new Point(326, 46);
+            txtnum.Location = new Point(373, 61);
+            txtnum.Margin = new Padding(3, 4, 3, 4);
             txtnum.Multiline = true;
             txtnum.Name = "txtnum";
-            txtnum.Size = new Size(100, 182);
+            txtnum.Size = new Size(59, 176);
             txtnum.TabIndex = 1;
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(138, 78);
+            label1.Location = new Point(158, 104);
             label1.Name = "label1";
-            label1.Size = new Size(80, 15);
+            label1.Size = new Size(100, 20);
             label1.TabIndex = 2;
             label1.Text = "Gerar numero";
             // 
-            // Form1
+            // btnlimpar
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            btnlimpar.Location = new Point(373, 435);
+            btnlimpar.Name = "btnlimpar";
+            btnlimpar.Size = new Size(116, 65);
+            btnlimpar.TabIndex = 3;
+            btnlimpar.Text = "Limpar";
+            btnlimpar.UseVisualStyleBackColor = true;
+            btnlimpar.Click += btnlimpar_Click;
+            // 
+            // button1
+            // 
+            button1.Location = new Point(644, 435);
+            button1.Name = "button1";
+            button1.Size = new Size(130, 65);
+            button1.TabIndex = 4;
+            button1.Text = "Voltar";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
+            // 
+            // frmnum
+            // 
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(914, 600);
+            Controls.Add(button1);
+            Controls.Add(btnlimpar);
             Controls.Add(label1);
             Controls.Add(txtnum);
             Controls.Add(btngerar);
-            Name = "Form1";
+            Margin = new Padding(3, 4, 3, 4);
+            Name = "frmnum";
             Text = "Form1";
             ResumeLayout(false);
             PerformLayout();
@@ -79,5 +106,7 @@
         private Button btngerar;
         private TextBox txtnum;
         private Label label1;
+        private Button btnlimpar;
+        private Button button1;
     }
 }
